@@ -2,6 +2,7 @@
 import CroissantMap from '../components/CroissantMap';
 import { useTranslation } from 'react-i18next';
 import LanguageSwitcher from '../components/LanguageSwitcher';
+import AddCroissantForm from '../components/AddCroissantForm';
 
 export default function Home() {
   const { t } = useTranslation();
@@ -13,6 +14,7 @@ export default function Home() {
         {t('map.addCroissant')}
       </a>
       <CroissantMap />
+      <AddCroissantForm />
     </main>
   );
 }
