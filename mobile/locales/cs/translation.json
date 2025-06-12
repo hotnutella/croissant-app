@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Mapa croissantů",
+    "go": "Jet",
+    "addCroissant": "Přidat croissant"
+  },
+  "form": {
+    "name": "Název místa",
+    "rating": "Hodnocení",
+    "comment": "Komentář",
+    "photo": "Fotka",
+    "submit": "Odeslat"
+  },
+  "card": {
+    "butter": "Máslo",
+    "crunch": "Křupavost",
+    "price": "Cena",
+    "vibe": "Atmosféra"
+  },
+  "profile": {
+    "title": "Profil"
+  }
+}

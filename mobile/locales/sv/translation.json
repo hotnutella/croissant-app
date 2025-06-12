@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Croissantkarta",
+    "go": "Kör",
+    "addCroissant": "Lägg till croissant"
+  },
+  "form": {
+    "name": "Platsnamn",
+    "rating": "Betyg",
+    "comment": "Kommentar",
+    "photo": "Foto",
+    "submit": "Skicka"
+  },
+  "card": {
+    "butter": "Smör",
+    "crunch": "Krispighet",
+    "price": "Pris",
+    "vibe": "Stämning"
+  },
+  "profile": {
+    "title": "Profil"
+  }
+}

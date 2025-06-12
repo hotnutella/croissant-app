@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Croissant-Karte",
+    "go": "Los",
+    "addCroissant": "Croissant hinzufügen"
+  },
+  "form": {
+    "name": "Ortsname",
+    "rating": "Bewertung",
+    "comment": "Kommentar",
+    "photo": "Foto",
+    "submit": "Absenden"
+  },
+  "card": {
+    "butter": "Butter",
+    "crunch": "Knusprigkeit",
+    "price": "Preis",
+    "vibe": "Ambiente"
+  },
+  "profile": {
+    "title": "Profil"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Croissant-kartta",
+    "go": "Mene",
+    "addCroissant": "Lisää croissant"
+  },
+  "form": {
+    "name": "Paikan nimi",
+    "rating": "Arvio",
+    "comment": "Kommentti",
+    "photo": "Kuva",
+    "submit": "Lähetä"
+  },
+  "card": {
+    "butter": "Voi",
+    "crunch": "Rapeus",
+    "price": "Hinta",
+    "vibe": "Tunnelma"
+  },
+  "profile": {
+    "title": "Profiili"
+  }
+}

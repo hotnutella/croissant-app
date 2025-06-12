@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Zemljevid rogljičkov",
+    "go": "Pojdi",
+    "addCroissant": "Dodaj rogljiček"
+  },
+  "form": {
+    "name": "Ime kraja",
+    "rating": "Ocena",
+    "comment": "Komentar",
+    "photo": "Fotografija",
+    "submit": "Pošlji"
+  },
+  "card": {
+    "butter": "Maslo",
+    "crunch": "Hrustljavost",
+    "price": "Cena",
+    "vibe": "Vzdušje"
+  },
+  "profile": {
+    "title": "Profil"
+  }
+}
