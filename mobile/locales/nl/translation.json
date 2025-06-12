@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Croissantkaart",
+    "go": "Ga",
+    "addCroissant": "Croissant toevoegen"
+  },
+  "form": {
+    "name": "Plaatsnaam",
+    "rating": "Beoordeling",
+    "comment": "Opmerking",
+    "photo": "Foto",
+    "submit": "Verzenden"
+  },
+  "card": {
+    "butter": "Boter",
+    "crunch": "Krokant",
+    "price": "Prijs",
+    "vibe": "Sfeer"
+  },
+  "profile": {
+    "title": "Profiel"
+  }
+}

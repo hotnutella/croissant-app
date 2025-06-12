@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Karta kroasana",
+    "go": "Kreni",
+    "addCroissant": "Dodaj kroasan"
+  },
+  "form": {
+    "name": "Naziv mjesta",
+    "rating": "Ocjena",
+    "comment": "Komentar",
+    "photo": "Fotografija",
+    "submit": "Pošalji"
+  },
+  "card": {
+    "butter": "Maslac",
+    "crunch": "Hrskavost",
+    "price": "Cijena",
+    "vibe": "Ugođaj"
+  },
+  "profile": {
+    "title": "Profil"
+  }
+}

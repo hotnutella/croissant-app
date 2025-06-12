@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Mapa rogalików",
+    "go": "Jedź",
+    "addCroissant": "Dodaj rogalika"
+  },
+  "form": {
+    "name": "Nazwa miejsca",
+    "rating": "Ocena",
+    "comment": "Komentarz",
+    "photo": "Zdjęcie",
+    "submit": "Wyślij"
+  },
+  "card": {
+    "butter": "Masło",
+    "crunch": "Chrupkość",
+    "price": "Cena",
+    "vibe": "Atmosfera"
+  },
+  "profile": {
+    "title": "Profil"
+  }
+}

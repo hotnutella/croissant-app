@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Mapa croissantov",
+    "go": "Choď",
+    "addCroissant": "Pridaj croissant"
+  },
+  "form": {
+    "name": "Názov miesta",
+    "rating": "Hodnotenie",
+    "comment": "Komentár",
+    "photo": "Fotka",
+    "submit": "Odošlať"
+  },
+  "card": {
+    "butter": "Maslo",
+    "crunch": "Chrumkavosť",
+    "price": "Cena",
+    "vibe": "Atmosféra"
+  },
+  "profile": {
+    "title": "Profil"
+  }
+}

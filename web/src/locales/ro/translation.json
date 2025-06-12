@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Harta croissanturilor",
+    "go": "Du-te",
+    "addCroissant": "Adaugă croissant"
+  },
+  "form": {
+    "name": "Numele locului",
+    "rating": "Evaluare",
+    "comment": "Comentariu",
+    "photo": "Fotografie",
+    "submit": "Trimite"
+  },
+  "card": {
+    "butter": "Unt",
+    "crunch": "Crocănțime",
+    "price": "Preț",
+    "vibe": "Atmosferă"
+  },
+  "profile": {
+    "title": "Profil"
+  }
+}

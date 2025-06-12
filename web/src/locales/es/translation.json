@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Mapa de croissants",
+    "go": "Ir",
+    "addCroissant": "Agregar croissant"
+  },
+  "form": {
+    "name": "Nombre del lugar",
+    "rating": "Calificación",
+    "comment": "Comentario",
+    "photo": "Foto",
+    "submit": "Enviar"
+  },
+  "card": {
+    "butter": "Mantequilla",
+    "crunch": "Crujiente",
+    "price": "Precio",
+    "vibe": "Ambiente"
+  },
+  "profile": {
+    "title": "Perfil"
+  }
+}

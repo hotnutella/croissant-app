@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Croissantkort",
+    "go": "Kør",
+    "addCroissant": "Tilføj croissant"
+  },
+  "form": {
+    "name": "Stednavn",
+    "rating": "Bedømmelse",
+    "comment": "Kommentar",
+    "photo": "Foto",
+    "submit": "Send"
+  },
+  "card": {
+    "butter": "Smør",
+    "crunch": "Sprødhed",
+    "price": "Pris",
+    "vibe": "Stemning"
+  },
+  "profile": {
+    "title": "Profil"
+  }
+}

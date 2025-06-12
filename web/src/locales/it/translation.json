@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Mappa dei croissant",
+    "go": "Vai",
+    "addCroissant": "Aggiungi Croissant"
+  },
+  "form": {
+    "name": "Nome del luogo",
+    "rating": "Valutazione",
+    "comment": "Commento",
+    "photo": "Foto",
+    "submit": "Invia"
+  },
+  "card": {
+    "butter": "Burro",
+    "crunch": "Croccantezza",
+    "price": "Prezzo",
+    "vibe": "Atmosfera"
+  },
+  "profile": {
+    "title": "Profilo"
+  }
+}
