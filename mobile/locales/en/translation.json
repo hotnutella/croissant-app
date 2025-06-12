@@ -19,5 +19,17 @@
   },
   "profile": {
     "title": "Profile"
+  },
+  "tabs": {
+    "home": "Home",
+    "explore": "Explore"
+  },
+  "settings": {
+    "title": "Settings"
+  },
+  "notifications": {
+    "enable": "Enable notifications",
+    "nearbyTitle": "Croissant nearby",
+    "nearbyMessage": "You are near a croissant location. Leave a review?"
   }
 }

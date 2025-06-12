@@ -19,5 +19,17 @@
   },
   "profile": {
     "title": "Profil"
+  },
+  "tabs": {
+    "home": "Accueil",
+    "explore": "Explorer"
+  },
+  "settings": {
+    "title": "Paramètres"
+  },
+  "notifications": {
+    "enable": "Activer les notifications",
+    "nearbyTitle": "Croissant à proximité",
+    "nearbyMessage": "Vous êtes près d'un lieu de croissants. Laisser un avis ?"
   }
 }
