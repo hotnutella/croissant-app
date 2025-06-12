@@ -1,6 +1,7 @@
 import { View, Text } from 'react-native';
 import CroissantMap from '@/components/CroissantMap';
 import { useTranslation } from 'react-i18next';
+import AddCroissantForm from '@/components/AddCroissantForm';
 
 export default function HomeScreen() {
   const { t } = useTranslation();
@@ -10,6 +11,7 @@ export default function HomeScreen() {
         {t('map.title')}
       </Text>
       <CroissantMap />
+      <AddCroissantForm />
     </View>
   );
 }
