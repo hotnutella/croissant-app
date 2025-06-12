@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Croissant Map",
+    "go": "Go",
+    "addCroissant": "Add Croissant"
+  },
+  "form": {
+    "name": "Place name",
+    "rating": "Rating",
+    "comment": "Comment",
+    "photo": "Photo",
+    "submit": "Submit"
+  },
+  "card": {
+    "butter": "Butter",
+    "crunch": "Crunch",
+    "price": "Price",
+    "vibe": "Vibe"
+  },
+  "profile": {
+    "title": "Profile"
+  }
+}

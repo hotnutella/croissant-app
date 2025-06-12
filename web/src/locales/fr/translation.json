@@ -1,0 +1,23 @@
+{
+  "map": {
+    "title": "Carte des croissants",
+    "go": "Allons-y",
+    "addCroissant": "Ajouter un croissant"
+  },
+  "form": {
+    "name": "Nom du lieu",
+    "rating": "Note",
+    "comment": "Commentaire",
+    "photo": "Photo",
+    "submit": "Envoyer"
+  },
+  "card": {
+    "butter": "Beurre",
+    "crunch": "Croquant",
+    "price": "Prix",
+    "vibe": "Ambiance"
+  },
+  "profile": {
+    "title": "Profil"
+  }
+}
