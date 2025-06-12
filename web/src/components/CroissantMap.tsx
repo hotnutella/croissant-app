@@ -3,6 +3,7 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import { LatLngExpression, divIcon } from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { useTranslation } from 'react-i18next';
+import CroissantCard from './CroissantCard';
 
 const icon = divIcon({ html: '🥐', className: '', iconSize: [24, 24] });
 
@@ -17,10 +18,10 @@ export default function CroissantMap() {
       />
       <Marker position={position} icon={icon}>
         <Popup>
-          <div className="flex flex-col">
-            <strong>Eiffel Croissant</strong>
-            <button className="mt-2 bg-blue-500 text-white px-2 py-1 rounded">{t('map.go')}</button>
-          </div>
+          <CroissantCard croissantId="example-id" name="Eiffel Croissant" />
+          <button className="mt-2 bg-blue-500 text-white px-2 py-1 rounded w-full">
+            {t('map.go')}
+          </button>
         </Popup>
       </Marker>
     </MapContainer>

@@ -1,6 +1,7 @@
-import MapView, { Marker } from 'react-native-maps';
+import MapView, { Marker, Callout } from 'react-native-maps';
 import { StyleSheet, View, Button } from 'react-native';
 import { useTranslation } from 'react-i18next';
+import CroissantCard from './CroissantCard';
 
 export default function CroissantMap() {
   const { t } = useTranslation();
@@ -14,9 +15,14 @@ export default function CroissantMap() {
   return (
     <View style={styles.container}>
       <MapView style={styles.map} initialRegion={region}>
-        <Marker coordinate={region} title="Eiffel Croissant" description="🥐" />
+        <Marker coordinate={region} title="Eiffel Croissant" description="🥐">
+          <Callout style={{ width: 200 }}>
+            <CroissantCard croissantId="example-id" name="Eiffel Croissant" />
+            <Button title={t('map.go')} onPress={() => {}} />
+          </Callout>
+        </Marker>
       </MapView>
-      <Button title={t('map.go')} onPress={() => {}} />
+      
     </View>
   );
 }

@@ -19,5 +19,11 @@
   },
   "profile": {
     "title": "Profile"
+  },
+  "likes": "Likes",
+  "comments": "Comments",
+  "noComments": "No comments yet",
+  "top": {
+    "title": "Top Croissants of the Week"
   }
 }

@@ -19,5 +19,11 @@
   },
   "profile": {
     "title": "Profil"
+  },
+  "likes": "J'aime",
+  "comments": "Commentaires",
+  "noComments": "Pas encore de commentaires",
+  "top": {
+    "title": "Meilleurs croissants de la semaine"
   }
 }
