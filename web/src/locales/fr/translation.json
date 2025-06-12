@@ -19,5 +19,10 @@
   },
   "profile": {
     "title": "Profil"
+  },
+  "admin": {
+    "title": "Admin",
+    "approve": "Approuver",
+    "reject": "Rejeter"
   }
 }
