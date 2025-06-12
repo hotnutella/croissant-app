@@ -18,6 +18,10 @@
     "vibe": "Ambiance"
   },
   "profile": {
-    "title": "Profil"
+    "title": "Profil",
+    "submitted": "Mes croissants",
+    "liked": "Aimés",
+    "badges": "Badges",
+    "scout": "Éclaireur de boulangerie"
   }
 }

@@ -18,6 +18,10 @@
     "vibe": "Vibe"
   },
   "profile": {
-    "title": "Profile"
+    "title": "Profile",
+    "submitted": "My Croissants",
+    "liked": "Liked",
+    "badges": "Badges",
+    "scout": "Croissant Scout"
   }
 }
